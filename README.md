@@ -3,7 +3,6 @@
 [go-badge]: https://img.shields.io/github/go-mod/go-version/p12s/furniture-store?style=plastic
 [go-url]: https://github.com/p12s/furniture-store/blob/master/go.mod
 
-Learn More about Creatly [here](https://zhashkevych.notion.site/About-Creatly-Creaty-8c68a310ec2347fca80ba919692fa568)
 
 ## Build & Run (Locally)
 ### Prerequisites
